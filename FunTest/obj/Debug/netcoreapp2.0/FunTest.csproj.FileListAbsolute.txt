@@ -1,0 +1,11 @@
+C:\Users\colemtg\source\repos\FunTest\FunTest\bin\Debug\netcoreapp2.0\FunTest.deps.json
+C:\Users\colemtg\source\repos\FunTest\FunTest\bin\Debug\netcoreapp2.0\FunTest.runtimeconfig.json
+C:\Users\colemtg\source\repos\FunTest\FunTest\bin\Debug\netcoreapp2.0\FunTest.runtimeconfig.dev.json
+C:\Users\colemtg\source\repos\FunTest\FunTest\bin\Debug\netcoreapp2.0\FunTest.dll
+C:\Users\colemtg\source\repos\FunTest\FunTest\bin\Debug\netcoreapp2.0\FunTest.pdb
+C:\Users\colemtg\source\repos\FunTest\FunTest\obj\Debug\netcoreapp2.0\FunTest.csprojResolveAssemblyReference.cache
+C:\Users\colemtg\source\repos\FunTest\FunTest\obj\Debug\netcoreapp2.0\FunTest.csproj.CoreCompileInputs.cache
+C:\Users\colemtg\source\repos\FunTest\FunTest\obj\Debug\netcoreapp2.0\FunTest.AssemblyInfoInputs.cache
+C:\Users\colemtg\source\repos\FunTest\FunTest\obj\Debug\netcoreapp2.0\FunTest.AssemblyInfo.cs
+C:\Users\colemtg\source\repos\FunTest\FunTest\obj\Debug\netcoreapp2.0\FunTest.dll
+C:\Users\colemtg\source\repos\FunTest\FunTest\obj\Debug\netcoreapp2.0\FunTest.pdb
